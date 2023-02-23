@@ -9,7 +9,7 @@ To get started:
    ```bash
    git clone https://github.com/roedyrustam/pandu-dashboard.git
 
-   cd kwd-dashboard
+   cd pandu-dashboard
    ```
 
 2. Install the dependencies:
